@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm BumblebeeCode0101, a backend developer with a passion for web development and specialized databases.
+I'm BumblebeeCode0101, a backend developer.
 
 - 👀 I’m interested in backend development, web development, and specialized databases.
 - 🌱 I’m currently learning backend development.
