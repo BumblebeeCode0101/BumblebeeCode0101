@@ -2,7 +2,7 @@
 
 I'm BumblebeeCode0101, a backend developer.
 
-- 👀 I’m interested in backend development, web development, and specialized databases.
+- 👀 I’m interested in backend development and web development.
 - 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on website projects.
 - 😄 Pronouns: He/Him
